@@ -1,0 +1,6 @@
+C:\Users\hector.lopez\source\repos\Enc\Enc\bin\Debug\Enc.exe.config
+C:\Users\hector.lopez\source\repos\Enc\Enc\bin\Debug\Enc.exe
+C:\Users\hector.lopez\source\repos\Enc\Enc\bin\Debug\Enc.pdb
+C:\Users\hector.lopez\source\repos\Enc\Enc\obj\Debug\Enc.csprojAssemblyReference.cache
+C:\Users\hector.lopez\source\repos\Enc\Enc\obj\Debug\Enc.exe
+C:\Users\hector.lopez\source\repos\Enc\Enc\obj\Debug\Enc.pdb
